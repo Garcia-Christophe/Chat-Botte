@@ -4,5 +4,6 @@
   "greeting": {
     "channel": "bienvenue",
     "role": "les potos"
-  }
+  },
+  "_comment": "Remplacer le channel et role par leur ID"
 }

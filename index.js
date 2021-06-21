@@ -21,7 +21,7 @@ fs.readdir("./commands", (err, files) => {
 client.on("message", (message) => {
   if (message.type !== "DEFAULT" || message.author.bot) return;
 
-  const args = message.content.trim().split(/ +/g);
+  const args = message.content.trim().split(" ");
   const commandName = args.shift().toLowerCase();
 
   if (!commandName.startsWith(config.prefix)) return;
