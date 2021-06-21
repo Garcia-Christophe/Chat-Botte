@@ -1,0 +1,22 @@
+{
+  "name": "chat-botte",
+  "version": "1.0.0",
+  "description": "Bot Discord personnalisé",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/G.Christophe/chat-botte.git"
+  },
+  "author": "G.Christophe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/G.Christophe/chat-botte/issues"
+  },
+  "homepage": "https://gitlab.com/G.Christophe/chat-botte#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
