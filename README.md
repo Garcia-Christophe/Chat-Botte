@@ -2,7 +2,7 @@
 
 Bot d'un serveur Discord. 
 
-Le message discord doit commencer par le préfixe de la commande (".") suivi de son nom et éventuellement d'autres mots.
+Le message discord doit commencer par le préfixe de la commande ("."), suivi de son nom, et éventuellement d'autres mots.
 
 ### Commandes
 
