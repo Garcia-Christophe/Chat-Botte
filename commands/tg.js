@@ -56,6 +56,7 @@ module.exports = {
     ];
 
     const tof = [
+      "Totof",
       "Scorpius",
       "RioPucs",
       "Rio",
