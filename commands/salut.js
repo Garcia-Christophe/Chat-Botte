@@ -5,7 +5,7 @@ module.exports = {
       "Salut.",
       "Hey ! Bien ou bien ?",
       "T'as quoi ?",
-      "BONSOOOOIIIIRR !!! (comme diraient McCly & Marlito)",
+      "BONSOOOOIIIIRR !!! (comme diraient McCly & Farlito)",
       "Bonjour, une nouvelle journée et donc une nouvelle occassion de passer du bon temps avec toi.",
       `bonjour ${message.member}, comment vas-tu ?`,
       "Ta gueule.",
