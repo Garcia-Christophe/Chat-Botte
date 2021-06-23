@@ -9,7 +9,9 @@ Le message discord doit commencer par le préfixe de la commande ("."), suivi de
 - **.salut** : Le chat saluera en retour.
 - **.tg NOM** : Le chat botté demandera à la personne spécifiée (NOM) de parler un peu moins.
 - **.random X Y** : Le chat fournira un nombre au hasard compris entre X et Y (inclus).
-- **.chifoumi** : Au bout de 3s, le chat tend sa patte pour présenter son choix (pierre/feuille/ciseau).
+- **.chifoumi** : Au bout de 3s, le chat tend sa patte pour présenter son choix (pierre/feuille/ciseaux).
 - **.pendu** : Le chat prendra un grand plaisir de jouer au pendu avec vous.
-- Lorsqu'une personne rejoint le serveur, le bot l'accueillera comme il se doit !
-- Lorsqu'une personne quitte le serveur, le bot l'annoncera comme il se doit également...
+- **.calcul** : Le premier qui répond au calcul mental du chat a gagné.
+
+Lorsqu'une personne rejoint le serveur, le bot l'accueillera comme il se doit !
+Lorsqu'une personne quitte le serveur, le bot l'annoncera comme il se doit également...
