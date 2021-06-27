@@ -9,7 +9,7 @@ module.exports = {
         "Min: " + min + "\nMax: " + max + "\nRésultat: **" + random + "**"
       );
     } else {
-      message.channel.send("Saisis ton min et ton max (ex: .random 1 10)");
+      message.channel.send("Saisis ton min et ton max (ex: .random 1 10).");
     }
   },
   name: "random",
