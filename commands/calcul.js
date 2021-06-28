@@ -63,25 +63,25 @@ module.exports = {
         }
 
         if (operation2 === operations[0]) {
-          resultat = resultat + n3;
+          resultat = parseFloat(resultat) + parseFloat(n3);
           resultat = Number.isInteger(resultat)
             ? parseInt(resultat)
             : parseFloat(resultat).toFixed(1);
           calcul += operations[0] + n3;
         } else if (operation2 === operations[1]) {
-          resultat = resultat - n3;
+          resultat = parseFloat(resultat) - parseFloat(n3);
           resultat = Number.isInteger(resultat)
             ? parseInt(resultat)
             : parseFloat(resultat).toFixed(1);
           calcul += operations[1] + n3;
         } else if (operation2 === operations[2]) {
-          resultat = resultat * n3;
+          resultat = parseFloat(resultat) * parseFloat(n3);
           resultat = Number.isInteger(resultat)
             ? parseInt(resultat)
             : parseFloat(resultat).toFixed(1);
           calcul += operations[2] + n3;
         } else if (operation2 === operations[3]) {
-          resultat = resultat / n3;
+          resultat = parseFloat(resultat) / parseFloat(n3);
           resultat = Number.isInteger(resultat)
             ? parseInt(resultat)
             : parseFloat(resultat).toFixed(1);
@@ -103,13 +103,15 @@ module.exports = {
         message.channel
           .awaitMessages(resultatFiltre, {
             max: 1,
-            time: 300000,
+            time: 30000,
             errors: ["time"],
           })
           .then(async (collected) => {
-            message.reply(
-              "Félicitations Einstein !  🔢\nTu as été le plus rapide à trouver la solution."
-            );
+            collected
+              .first()
+              .reply(
+                "Félicitations Einstein !  🔢\nTu as été le plus rapide à trouver la solution."
+              );
           })
           .catch((err) => {
             message.channel.send(

@@ -48,8 +48,5 @@ client.on("guildMemberRemove", (member) => {
 });
 
 client.on("ready", () => {
-  client.user.setActivity("Poussin Piou", {
-    type: "LISTENING",
-    url: "https://open.spotify.com/track/0hqkg636uXeU5I9l6wzbuX?si=91e923a2a4a3452e",
-  });
+  client.user.setActivity(".help", { type: "WATCHING" });
 });
