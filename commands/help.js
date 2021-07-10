@@ -28,6 +28,10 @@ module.exports = {
       .addField(
         "`.calcul X`",
         "Résoudre le calcul (de niveau X = 1/2/3) le plus vite possible."
+      )
+      .addField(
+        "`.persohp`",
+        "Le chat essaye de deviner le personnage auquel tu penses dans l'univers Harry Potter."
       );
 
     const pages = [botInfo, commandesUtiles, commandesJeux];
