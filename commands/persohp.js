@@ -172,6 +172,7 @@ module.exports = {
         sexe: "femme",
         cheveux: "chatains",
         fonction: "élève ou ancien(ne) élève à Poudlard",
+        maison: "Serpentard",
         particularite: "porte parfois les poils de son chat sur sa robe",
       },
       {
