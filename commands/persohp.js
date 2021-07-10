@@ -117,7 +117,8 @@ module.exports = {
         forme: "sorcier/sorcière",
         sexe: "homme",
         cheveux: "inconnus",
-        fonction: "mangemort ou ancien mangemort",
+        fonction:
+          "mangemort ou ancien mangemort (hors élève actuel de Poudlard)",
         particularite: "a volé le médaillon de Salazar Serpentard",
       },
       {
@@ -265,7 +266,8 @@ module.exports = {
         forme: "sorcier/sorcière",
         sexe: "homme",
         cheveux: "bruns",
-        fonction: "mangemort ou ancien mangemort",
+        fonction:
+          "mangemort ou ancien mangemort (hors élève actuel de Poudlard)",
         particularite: "a déjà joué dans Doctor Who",
       },
       {
@@ -390,7 +392,8 @@ module.exports = {
         forme: "sorcier/sorcière",
         sexe: "homme",
         cheveux: "bruns",
-        fonction: "mangemort ou ancien mangemort",
+        fonction:
+          "mangemort ou ancien mangemort (hors élève actuel de Poudlard)",
         particularite: "s'est déjà enfui de la prison Azkaban",
       },
       {
@@ -819,7 +822,8 @@ module.exports = {
         forme: "sorcier/sorcière",
         sexe: "homme",
         cheveux: "bruns",
-        fonction: "mangemort ou ancien mangemort",
+        fonction:
+          "mangemort ou ancien mangemort (hors élève actuel de Poudlard)",
         particularite: "a été directeur de Durmstrang",
       },
       {
@@ -844,7 +848,8 @@ module.exports = {
         forme: "sorcier/sorcière",
         sexe: "femme",
         cheveux: "bruns",
-        fonction: "mangemort ou ancien mangemort",
+        fonction:
+          "mangemort ou ancien mangemort (hors élève actuel de Poudlard)",
         particularite: "est adepte de la torture",
       },
       {
@@ -868,7 +873,8 @@ module.exports = {
         forme: "sorcier/sorcière",
         sexe: "homme",
         cheveux: "inconnus",
-        fonction: "mangemort ou ancien mangemort",
+        fonction:
+          "mangemort ou ancien mangemort (hors élève actuel de Poudlard)",
         particularite: "est le mari de Bellatrix Lestrange",
       },
       {
@@ -910,7 +916,7 @@ module.exports = {
         sexe: "homme",
         cheveux: "bruns",
         fonction: "élève ou ancien(ne) élève à Poudlard",
-        mainson: "Gryffondor",
+        maison: "Gryffondor",
         particularite:
           "est une victime pendant les premiers films, puis un mec hyper badass lors des derniers",
       },
@@ -920,7 +926,7 @@ module.exports = {
         sexe: "femme",
         cheveux: "blonds",
         fonction: "élève ou ancien(ne) élève à Poudlard",
-        mainson: "Serdaigle",
+        maison: "Serdaigle",
         particularite: "est perchée",
       },
       {
@@ -999,7 +1005,8 @@ module.exports = {
         forme: "sorcier/sorcière",
         sexe: "homme",
         cheveux: "bruns",
-        fonction: "mangemort ou ancien mangemort",
+        fonction:
+          "mangemort ou ancien mangemort (hors élève actuel de Poudlard)",
         particularite:
           "s'est vu enlevé son masque de mangemort lorsque le Seigneur des ténèbres renaît",
       },
@@ -1152,7 +1159,8 @@ module.exports = {
         forme: "sorcier/sorcière",
         sexe: "homme",
         cheveux: "blonds",
-        fonction: "mangemort ou ancien mangemort",
+        fonction:
+          "mangemort ou ancien mangemort (hors élève actuel de Poudlard)",
         particularite: "meurt par sa propre main",
       },
       {
@@ -1314,7 +1322,8 @@ module.exports = {
         forme: "sorcier/sorcière",
         sexe: "homme",
         cheveux: "inconnus",
-        fonction: "mangemort ou ancien mangemort",
+        fonction:
+          "mangemort ou ancien mangemort (hors élève actuel de Poudlard)",
         particularite:
           "a été dénoncé comme mangemort par Igor Karkaroff et emprisonné à Azkaban",
       },
@@ -1323,7 +1332,8 @@ module.exports = {
         forme: "sorcier/sorcière",
         sexe: "homme",
         cheveux: "inconnus",
-        fonction: "mangemort ou ancien mangemort",
+        fonction:
+          "mangemort ou ancien mangemort (hors élève actuel de Poudlard)",
         particularite: "a mutilé le nez de Alastor Maugrey",
       },
       {
@@ -1640,7 +1650,8 @@ module.exports = {
         forme: "sorcier/sorcière",
         sexe: "homme",
         cheveux: "blonds",
-        fonction: "mangemort ou ancien mangemort",
+        fonction:
+          "mangemort ou ancien mangemort (hors élève actuel de Poudlard)",
         particularite: "arrache le bras de Ron",
       },
       {
