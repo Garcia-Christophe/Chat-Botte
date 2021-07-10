@@ -12,6 +12,7 @@ Le message discord doit commencer par le préfixe de la commande ("."), suivi de
 - **.chifoumi** : Au bout de 3s, le chat tend sa patte pour présenter son choix (pierre/feuille/ciseaux).
 - **.pendu** : Le chat prendra un grand plaisir de jouer au pendu avec vous.
 - **.calcul X** : Le premier qui répond au calcul mental (de niveau X = 1/2/3) du chat a gagné.
+- **.persohp** : Le Akinator de l'univers Harry Potter, le chat va essayer de deviner le perso auquel tu penses.
 - **.help** : Un message particulier présentera le chat et ses commandes.
 
 Lorsqu'une personne rejoint le serveur, le bot l'accueillera comme il se doit !
