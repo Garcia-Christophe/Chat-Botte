@@ -1258,7 +1258,8 @@ module.exports = {
         cheveux: "roux",
         fonction: "élève ou ancien(ne) élève à Poudlard",
         maison: "Gryffondor",
-        particularite: "a donné BEAUCOUP d'amour à Harry Potter",
+        particularite:
+          "a donné BEAUCOUP d'amour à Harry Potter (pour le sauver)",
       },
       {
         nom: "Lily Luna Potter",
